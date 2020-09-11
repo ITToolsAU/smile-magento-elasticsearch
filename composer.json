@@ -4,7 +4,7 @@
     "homepage": "https://github.com/Smile-SA/smile-magento-elasticsearch",
     "type": "magento-module",
     "require": {
-        "elasticsearch/elasticsearch": "~1.2.2"
+        "elasticsearch/elasticsearch": "*"
     },
     "license": "OSL-3.0",
     "authors": [
